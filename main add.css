@@ -1,0 +1,19 @@
+h1
+{
+    background-image:url("pexels-fwstudio-129731.jpg");
+    background-repeat:no-repeat;
+    background-size: 200% 200%;
+}
+h2
+{
+    color:burlywood;   
+}
+body
+{
+    background-image:url("mainbg.jpg");
+    background-repeat:no-repeat;
+    background-size: 100% 300%;
+}
+a:hover{
+    color:black;
+}
